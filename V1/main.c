@@ -1,4 +1,4 @@
-#include <stdio.h> //Le PROJET ! Othello ! IUTV villetaneuse ! Mathieu Lacroix
+#include <stdio.h> //Le PROJET
 #include <stdlib.h>
 //Question 1
 #define TAILLE_CH 256 //Nombre de caractere maximal pour un nom
